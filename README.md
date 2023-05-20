@@ -1,1 +1,2 @@
-# 305a385.github.io
+# LICENSE
+see LICENSE file in root directory
